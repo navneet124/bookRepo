@@ -1,0 +1,6 @@
+com\demo\book\mapper\BookMapper.class
+com\demo\book\WsDemoBookApplication.class
+com\demo\book\mapper\BookMapperImpl.class
+com\demo\book\repository\BookRepository.class
+com\demo\book\service\BookService.class
+com\demo\book\controller\BookController.class
